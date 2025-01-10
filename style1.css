@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(171, 255, 4);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.first {
+  color: chocolate;
+}
+
+#your-name {
+  background-color: burlywood;
+  border: 5px solid #000000;
+}
